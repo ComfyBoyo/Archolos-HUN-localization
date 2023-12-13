@@ -93,7 +93,7 @@
   "DIALOG_TP_Choice_Volfzack": "Vardhal erődje.",
   "DIALOG_TP_Choice_Silbach": "Silbach.",
   "DIALOG_TP_Choice_SwampV1": "Elátkozott mocsár.",
-  "DIALOG_TP_Choice_SwampV2": "Csibészrév.",
+  "DIALOG_TP_Choice_SwampV2": "Duhaj dokk.",
   "DIALOG_TP_Choice_Lurker": "Lopakodópart.",
   "DIALOG_TP_Choice_Skeletons": "Elhagyott barlang Rita szőlőskertjénél.",
   "DIALOG_TP_Choice_WolfsDen": "Farkasodú.",
@@ -312,8 +312,8 @@
   "DIALOG_SmithWeapon_Basic": "Egyszerű fegyver kovácsolása.",
   "DIALOG_SmithWeapon_Solid": "Nemes fegyver kovácsolása.",
   "DIALOG_SmithWeapon_Master": "Mesteri fegyver kovácsolása.",
-  "DIALOG_Militia_Sword_03": "Első osztályú milícia kard kovácsolása.",
-  "DIALOG_Militia_Sword_02": "Nemes milícia kard kovácsolása.",
-  "DIALOG_Militia_Sword_01": "Milícia kard kovácsolása.",
-  "DIALOG_Militia_Sword_2h": "Milícia kard újrakovácsolása."
+  "DIALOG_Militia_Sword_03": "Első osztályú Városőr Kard kovácsolása.",
+  "DIALOG_Militia_Sword_02": "Nemes Városőr Kard kovácsolása.",
+  "DIALOG_Militia_Sword_01": "Őrség Kardjának kovácsolása.",
+  "DIALOG_Militia_Sword_2h": "Őrség Kardjának újrakovácsolása."
 }
