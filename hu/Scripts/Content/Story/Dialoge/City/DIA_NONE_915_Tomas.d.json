@@ -12,7 +12,7 @@
   "DIA_Tomas_WaitIHaveQuest_Okay_03_05": "Há, pontosan! Adok neked hat üveggel. Hogy mihez kezdesz velük, az rajtad múlik. De gondoskodj róla, hogy minden leendő vásárló kapjon legalább eggyel, amit megkóstolhat.",
   "DIA_Tomas_WaitIHaveQuest_Okay_03_06": "És ne feledd, előfordulhat, hogy egyikük vagy másikuk későbbre is kérhet egy üveggel, úgyhogy ne idd meg mindet.",
   "DIA_Tomas_WaitIHaveQuest_Okay_03_07": "Rekeszenként 100 aranyat kérek. Ennyit kell felkínálnod, ennél lejjebb nem megyek. Egy rekeszben 20 üveg van, ha esetleg nem tudnád.",
-  "DIA_Tomas_WaitIHaveQuest_Okay_03_08": "Öt embert kell felkeresned. A fogadós Gerstandot és Helgát, Lennartot, az őrség szállásmesterét, Vladát, a bordélyház tulajdonosnőjét és Lorenzót, a Kereskedők Céhének képviselőjét.",
+  "DIA_Tomas_WaitIHaveQuest_Okay_03_08": "Öt embert kell felkeresned. A fogadós Gerstandot és Helgát, Lennartot, az őrség őrmesterét, Vladát, a bordélyház tulajdonosnőjét és Lorenzót, a Kereskedők Céhének képviselőjét.",
   "DIA_Tomas_WaitIHaveQuest_Okay_03_09": "Ne feledd, hogy mindig legyen nálad egy üveg Sötét Paladiner! Ellenkező esetben egyikükkel sem kell beszélned.",
   "DIA_Tomas_WaitIHaveQuest_Okay_03_10": "Van kérdésed bármelyikükkel kapcsolatban?",
   "DIA_Tomas_WaitIHaveQuest_Olaf_15_01": "Mondj valamit Helgáról.",
@@ -24,7 +24,7 @@
   "DIA_Tomas_WaitIHaveQuest_Gerstand_03_03": "Sajnos nem sok üzletet kötöttem vele. Már régóta üzletel a Kereskedők Céhével és a helyi borbeszállítókkal, úgyhogy alaposan meg kell dolgoznod, hogy felkeltsd az érdeklődését a söröm iránt.",
   "DIA_Tomas_WaitIHaveQuest_Gerstand_03_04": "Ahogy hallottam, nagy borkedvelő, és kedveli a borok intenzív ízét és illatát. Talán ezzel kezdhetnél valamit?",
   "DIA_Tomas_WaitIHaveQuest_Gerstand_03_05": "A csapszéke a keleti kapunál található, közvetlenül az óváros bejáratánál.",
-  "DIA_Tomas_WaitIHaveQuest_Lennart_15_01": "A Városőrség szállásmestere is venne tőled sört?",
+  "DIA_Tomas_WaitIHaveQuest_Lennart_15_01": "A Városőrség őrmestere is venne tőled sört?",
   "DIA_Tomas_WaitIHaveQuest_Lennart_03_02": "Há, meg fogsz lepődni. A srácok nem dolgoznak egész álló nap, nekik is kijár a pihenés. Az Őrség jobban szereti, ha az őrök a kaszárnyában ücsörögnek, és nem a városban mászkálnak.",
   "DIA_Tomas_WaitIHaveQuest_Lennart_03_03": "És mindenkinek jogában áll sörözni. Egyelőre csak kis tételben szállítok nekik, de remélem, hogy a Sötét Paladiner felkelti majd az érdeklődésüket. Egy próbát megér.",
   "DIA_Tomas_WaitIHaveQuest_Vladan_15_01": "Mit tudsz mondani a bordélyház tulajdonos asszonyáról, Vladáról?",
@@ -155,5 +155,5 @@
   "DIA_Tomas_Ambient_03_04": "Hála a kapcsolatoknak, amiket nekem kialakítottál, egyre jobb és jobb lesz. A Sötét Paladiner többé már nem egy hiánypótló termék, hanem olyasmi, ami mindenki ajkán ott van!",
   "DIA_Tomas_Ambient_03_05": "Éreztem magamat már jobban is. Lenne valami tennivalód?",
   "DIA_Tomas_WhatBeer_Paladin_Choice": "Sötét Paladiner.",
-  "DIA_Tomas_WaitIHaveQuest_Lennart_Choice": "A Városőrség szállásmestere venne sört tőled?"
+  "DIA_Tomas_WaitIHaveQuest_Lennart_Choice": "A Városőrség őrmestere venne sört tőled?"
 }
