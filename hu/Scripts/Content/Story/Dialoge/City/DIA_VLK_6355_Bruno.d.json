@@ -31,9 +31,9 @@
   "DIA_Bruno_Far_15_01": "Milyen messze van még?",
   "DIA_Bruno_Far_03_02": "Tudod, tényleg úgy viselkedsz, mint egy elkényeztetett hercegnő. Kezdek azon tűnődni, hogy fel tudsz-e venni egy csákányt.",
   "DIA_Bruno_Far_03_03": "Bocsáss meg, hogy goromba vagyok, de nem tudnád befogni a szádat és követni engem? Tényleg nincs messze. Gondolj bele: néhány óra munka, és úgy élhetsz, mint egy király.",
-  "DIA_Bruno_WARN_03_05": "Te akartad!"
+  "DIA_Bruno_WARN_03_05": "Te akartad!",
   "DIA_Bruno_WARN_03_06": "Nem mehetnénk egyszerűen a barlangba?",
-  "DIA_Bruno_WARN_03_07": "Kövessetek!"
+  "DIA_Bruno_WARN_03_07": "Kövessetek!",
   "DIA_Bruno_WARN_03_01": "Ember, nem hallottad, amit mondtam? Mozgasd a segged, mert kezdesz nagyon felbosszantani!",
   "DIA_Bruno_WARN_03_02": "Ha még egyszer megállítasz minket, esküszöm, hogy a szart is kiverem belőled!",
   "DIA_Bruno_WARN_03_03": "Türelmes vagyok, de mindennek van határa. Kérem, ne kényszerítsen erre. Csak menjünk a barlangba, ott majd mindent megmutatok. Csak néhány percnyire van innen.",
@@ -55,6 +55,6 @@
   "DIA_Bruno_MineWarn1_03_01": "Hé, barátom. Még nem fejeztük be a munkát. Biztos vagyok benne, hogy még rengeteg vasat lehet bányászni!",
   "DIA_Bruno_MineWarn1_03_02": "Tessék, igyál egy sört, hogy feltöltődj!",
   "DIA_Bruno_MineWarn1_03_03": "Ha pihenned kell, ülj be a barlangba, melegedj a tűz mellett, és egyél valamit. Hagytunk neked bent néhány finomságot.",
-  "DIA_Bruno_MineWarn2_03_01": "Haver, megegyeztünk. Legfeljebb pár óra munka. Ma megcsináljuk az egészet, aztán szétszéledünk. Menjetek vissza!"
+  "DIA_Bruno_MineWarn2_03_01": "Haver, megegyeztünk. Legfeljebb pár óra munka. Ma megcsináljuk az egészet, aztán szétszéledünk. Menjetek vissza!",
   "DIA_Bruno_HELLO_Sure_Choice": "Miért ne? Csak mondd meg, mikor és hol."
 }
