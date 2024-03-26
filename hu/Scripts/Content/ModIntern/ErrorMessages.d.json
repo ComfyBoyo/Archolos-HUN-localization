@@ -7,5 +7,5 @@
   "ERROR_KMLIB_126": "A KmLib.dll könyvtárból nem lehetett funkciót betölteni! Kérjük, telepítse a legújabb Visual Studio fájlokat https://aka.ms/vs/16/release/vc_redist.x86.exe és https://aka.ms/vs/16/release/vc_redist.x64.exe. Hibakód: ",
   "ERROR_KMLIB_OTHER": "A KmLib.dll könyvtárból nem lehetett funkciót betölteni! Kérjük, telepítse újra az alkalmazást, vagy forduljon a műszaki támogatáshoz. Hibakód: ",
   "ERROR_KMLIB_GETPROCADDRESS": "A KmLib.dll könyvtárból nem lehetett funkciót betölteni! Kérjük, telepítse újra az alkalmazást, vagy forduljon a műszaki támogatáshoz. Hibakód: ",
-  "MESSAGE_VDFS_MISMATCH": "A SystemPack inkompatibilis verziója került észlelésre. Egyelőre csak a SystemPack 1.8-as verzióját támogatja hivatalosan a mod.\\nNincs garantálva a kompatibilitás más verziókkal, más javításokkal, Unioval stb."
+  "MESSAGE_VDFS_MISMATCH": "A SystemPack inkompatibilis verziója került észlelésre. Egyelőre csak a SystemPack 1.8-as verzióját támogatja hivatalosan a mod.\\nNincs garantálva a kompatibilitás más verziókkal, javításokkal, Union-nal stb."
 }
