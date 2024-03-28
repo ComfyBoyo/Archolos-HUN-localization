@@ -2,7 +2,7 @@
   "DIA_EnigmaticWanderer_NS46_LetsGo_03_01": "Ezer hála!",
   "DIA_EnigmaticWanderer_NS46_LetsGo_15_02": "Gond nélkül oda kéne tudnod jutni, de attól függetlenül sok szerencsét kívánok.",
   "DIA_EnigmaticWanderer_NS46_LetsGo_03_03": "Neked is!",
-  "DIA_EnigmaticWanderer_NS46_Start_03_01": "Hello! A városba vezető utat keresem.",
+  "DIA_EnigmaticWanderer_NS46_Start_03_01": "Helló! A városba vezető utat keresem.",
   "DIA_EnigmaticWanderer_NS46_Start_03_02": "Ott akartam munkát keresni, de sajnos nem tudom hogy melyik irányba van a város...",
   "DIA_EnigmaticWanderer_NS46_Start_03_03": "Nem mondanád meg, hogy merre kéne mennem?",
   "DIA_EnigmaticWanderer_NS46_West_15_01": "Menj nyugatra.",
@@ -14,5 +14,5 @@
   "DIA_EnigmaticWanderer_NS46_WrongPlace_03_02": "Figyelj, ezt az úton találtam. Hátha szükséged lesz rá.",
   "DIA_EnigmaticWanderer_NS46_RightPlace_03_01": "Ahogy láthatod, egy hosszú út után sikerült ideérnem.",
   "DIA_EnigmaticWanderer_NS46_RightPlace_03_02": "Megint kösz a segítséget! Útközben ezt találtam - hátha hasznodra lesz.",
-  "DIA_EnigmaticWanderer_NS46_AfterEvent_03_01": "Először kifújom magam, melőtt tovább megyek."
+  "DIA_EnigmaticWanderer_NS46_AfterEvent_03_01": "Először kifújom magam, mielőtt tovább megyek."
 }

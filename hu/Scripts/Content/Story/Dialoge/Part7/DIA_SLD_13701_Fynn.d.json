@@ -20,16 +20,16 @@
   "DIA_Fynn_AfterTest_Finish_03_14": "Biztonsági okok miatt szükség lesz egy belépési díjat fizetni minden alkalommal amikor belépsz, és a kitermelt termékek egy részét át kell adnod kilépéskor.",
   "DIA_Fynn_AfterTest_Finish_03_15": "Szóval, aláírjuk?",
   "DIA_Fynn_AfterTest_Yes_15_01": "Persze, rendes feltételeknek hangzanak.",
-  "DIA_Fynn_AfterTest_Yes_03_02": "Tökéletes! Itt az aláirandó szerződés.",
+  "DIA_Fynn_AfterTest_Yes_03_02": "Tökéletes! Itt az aláírandó szerződés.",
   "DIA_Fynn_AfterTest_Yes_03_03": "Remek, amikor készen vagy, menj be.",
-  "DIA_Fynn_AfterTest_Yes_03_04": "Mégegy dolog, bármennyi aranyrög is van nálad, jobban teszed ha nélkülük mész be. Amikor kijössz a bányából az összes nálad lévő aranyröget számlálásba vesszük!",
+  "DIA_Fynn_AfterTest_Yes_03_04": "Még egy dolog, bármennyi aranyrög is van nálad, jobban teszed ha nélkülük mész be. Amikor kijössz a bányából az összes nálad lévő aranyrögöt számlálásba vesszük!",
   "DIA_Fynn_AfterTest_No_15_01": "Az nem hangzik valami jó ajánlatnak.",
   "DIA_Fynn_AfterTest_No_03_02": "Nem fogsz ennél jobbat kapni, ha nem tetszik, akkor mehetsz répákat szedni Silbachban.",
   "DIA_Fynn_AfterTest_03_01": "Oké, számoljuk össze mennyi rögöt sikerült összeszedned.",
   "DIA_Fynn_AfterTest_03_02": "A szentségit, rég láttam valakit ilyen profin bánni a csákánnyal. Nem kell többet lássak. Tiéd a munka.",
   "DIA_Fynn_AfterTest_Next_03_02": "Nem rossz, egészen jó! Szerintem feltalálod magad a bányánkban.",
-  "DIA_Fynn_AfterTest_Next_03_01": "Ezzel a hatékonysággal csak pazarlod az erőforrásainkat. Gyre vissza később amikor már jobban tudsz követ ütni.",
+  "DIA_Fynn_AfterTest_Next_03_01": "Ezzel a hatékonysággal csak pazarlod az erőforrásainkat. Gyere vissza később amikor már jobban tudsz követ ütni.",
   "DIA_Fynn_AfterTest_GiveAll_Next_Finish_No_Choice": "Az nem hangzik valami jó ajánlatnak.",
-  "DIA_Fynn_AfterTest_GiveAllAndYours_Choice": "(Add vissza a kifejtett rögöket, és adj hozzá 5 sajátot.)",
-  "DIA_Fynn_AfterTest_GiveAll_Choice": "(Add át az összes kifejtett rögöket)"
+  "DIA_Fynn_AfterTest_GiveAllAndYours_Choice": "(Add vissza a kifejtett rögöket, és adj hozzá 5 sajátot)",
+  "DIA_Fynn_AfterTest_GiveAll_Choice": "(Add át az összes kifejtett rögöt)"
 }

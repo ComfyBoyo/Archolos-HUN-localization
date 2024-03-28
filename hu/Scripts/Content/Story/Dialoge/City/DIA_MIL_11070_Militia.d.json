@@ -1,6 +1,6 @@
 ﻿{
-  "DIA_Militia_KQ402_FIRSTWARN_03_01": "Megállni! Tiltott helyen vagy! Tünés innen!",
-  "DIA_Militia_KQ402_SECONDWARN_03_01": "Utoljára mondom, tünés!",
+  "DIA_Militia_KQ402_FIRSTWARN_03_01": "Megállni! Tiltott helyen vagy! Tűnés innen!",
+  "DIA_Militia_KQ402_SECONDWARN_03_01": "Utoljára mondom, tűnés!",
   "DIA_Militia_KQ402_LASTWARN_03_01": "Te akartad ezt.",
   "DIA_Militia_KQ402_What_03_01": "Hé, te, mit keresel?!",
   "DIA_Militia_KQ402_What_15_02": "Én, ööh...",
@@ -11,5 +11,5 @@
   "DIA_Militia_KQ402_CheckArmor_15_03": "Nem miatta vagyok itt. Roderich küldött engem, hogy megvizsgáljam a felszerelést amit elhoztál nekünk.",
   "DIA_Militia_KQ402_CheckArmor_03_04": "Van bármiféle papírod hozzá?",
   "DIA_Militia_KQ402_CheckArmor_15_05": "Nincs. Személyesen is megkérdezheted őt, vagy akár a tisztelt Graysont, mivel az ő parancsai miatt vagyok itt.",
-  "DIA_Militia_KQ402_CheckArmor_03_06": "Nincs arra szükség. Gyeere be."
+  "DIA_Militia_KQ402_CheckArmor_03_06": "Nincs arra szükség. Gyere be."
 }

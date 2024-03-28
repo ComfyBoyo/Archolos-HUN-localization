@@ -57,7 +57,7 @@
   "DIA_Markus_Q205_Camp_Next_03_01": "Sok sikert a társaid kereséséhez!",
   "DIA_Markus_Q205_Camp_Next_15_02": "Jó vadászatot, Markus!",
   "DIA_Markus_Q205_Camp_03_01": "Itt több időt tölthettek.",
-  "DIA_Markus_Q205_Camp_03_02": "Látod azokat a kidöntött fákat és a hús maradványait? Szerintem valamire vadászhattak, és úgy döntöttek, hogy itt fogyasztják el. Úgy látszik, hogy legalább tizen lehettek.",
+  "DIA_Markus_Q205_Camp_03_02": "Látod azokat a kidöntött fákat és a hús maradványait? Szerintem valamire vadászhattak, és úgy döntöttek, hogy itt fogyasztják el. Úgy látszik, hogy legalább tízen lehettek.",
   "DIA_Markus_Q205_Camp_More_15_01": "Látsz egyebet?",
   "DIA_Markus_Q205_Camp_More_03_02": "Kippernek igaza volt. Nem csak, hogy jól felöntöttek a garatra, de eltulajdonítottak pár dolgot a faluból.",
   "DIA_Markus_Q205_Camp_More_03_03": "Valami nehezet cipeltek magukkal. A lábnyomok nagyon mélyek, illetve több helyet is láthatsz a tábortűz körül, ahova ezeket a tárgyakat tehették.",
@@ -95,7 +95,7 @@
   "DIA_Markus_Hunting_Base_03_05": "Ez nem lesz elég. Ettől többet kell hoznod.",
   "DIA_Markus_Hunting_Special_03_01": "Jó, miért ne?",
   "DIA_Markus_AllHunt_03_01": "Már minden vadászmesterséget elsajátítottál, amire taníthatnálak. Új tanárt kell keresned magadnak.",
-  "DIA_Markus_Hunting_Special_BFSting_15_01": "Hogy távolítom el a méregmigyeket?",
+  "DIA_Markus_Hunting_Special_BFSting_15_01": "Hogy távolítom el a méregmirigyeket?",
   "DIA_Markus_Hunting_Special_BFSting_03_02": "Nagyon óvatos megközelítést igényel. A fullánk sérülékeny és eltörhet. A vérlégy herék gyakran növesztenek újat, amíg életben vannak, de a halottak már nem csinálják ezt nyilvánvalóan.",
   "DIA_Markus_Hunting_Special_BFSting_03_03": "Találj egy nagyon puha pontot ezeknek a túlnőtt legyeknek a potrohán, majd nyomd meg, és vágd le a kitüremkedő fullánkot egy ügyes mozdulattal.",
   "DIA_Markus_Hunting_Special_Mandibles_15_01": "Hogyan nyered ki a csáprágókat?",
@@ -136,5 +136,5 @@
   "DIA_Markus_SellTrophy_BoarTeeth_Choice": "(Vaddisznó agyar átadása)",
   "DIA_Markus_SellTrophy_TrollTeeth_Choice": "(Troll agyar átadása)",
   "DIA_Markus_SellTrophy_SwampSharkTeeth_Choice": "(Mocsári cápa fogak átadása)",
-  "DIA_Markus_SellTrophy_SeaSharkTeeth_Choice": "(Tengeri cápa fogak átadása)"
+  "DIA_Markus_SellTrophy_SeaSharkTeeth_Choice": "(Parti cápa fogak átadása)"
 }

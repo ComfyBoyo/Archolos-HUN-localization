@@ -1,7 +1,7 @@
 ﻿{
   "DIA_GARDENER_Hello_15_01": "Mit csinálsz itt?",
   "DIA_GARDENER_Hello_03_02": "Ezt úgy veszem, hogy udvariasan próbálsz társalgást kezdeményezni velem, mert szerintem nyilvánvaló, hogy a kertész vagyok.",
-  "DIA_GARDENER_SQ502_15_01": "Úgy tűnik, hogy elég nagy a növény gyűjtgeményed itt.",
+  "DIA_GARDENER_SQ502_15_01": "Úgy tűnik, hogy elég nagy a növény gyűjteményed itt.",
   "DIA_GARDENER_SQ502_03_02": "Igen, elég jó. A varázslóknak sok növényre van szükségük a főzeteikhez, szóval mindent próbálok itt termeszteni, ami a körülményeket túlélik.",
   "DIA_GARDENER_SQ502_03_03": "Sajnos még hiányzik pár növény, és a terület veszélyessé vált mostanában a magok gyűjtéséhez.",
   "DIA_GARDENER_SQ502_Start_15_01": "Hozhatok neked.",
@@ -19,7 +19,7 @@
   "DIA_Gardener_Ambient_03_02": "Jól vagyok. Remélem nem kockáztatsz sokat a magvak keresésével.",
   "DIA_Gardener_Ambient_03_03": "A gyűjteményem már tele van. Most már csak más földek magvai után kell járnom, de a háború miatt ez egy nehéz feladat lesz.",
   "DIA_GARDENER_SQ502_Seeds_BluePlant_Choice": "(Kék bodza mag átadása)",
-  "DIA_GARDENER_SQ502_Seeds_HealthHerb03_Choice": "(Gyógyító gyökér mag átatása)",
+  "DIA_GARDENER_SQ502_Seeds_HealthHerb03_Choice": "(Gyógyító gyökér mag átadása)",
   "DIA_GARDENER_SQ502_Seeds_ManaHerb03_Choice": "(Tűzgyökér mag átadása)",
   "DIA_GARDENER_SQ502_Seeds_ManaHerb01_Choice": "(Tűzcsalán mag átadása)"
 }

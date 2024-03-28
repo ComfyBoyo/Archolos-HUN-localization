@@ -47,7 +47,7 @@
   "DIA_Ramha_QA202_WhereFigaro_15_01": "Várj, várj... Én nem...",
   "DIA_Ramha_QA202_WhereFigaro_15_02": "Francba, Ruud ügyét kellett volna elvégeznem. Figaro valahol a kikötőben lesz.",
   "DIA_Ramha_QA202_HEY_03_01": "Oké, itt vagyunk. Most jól figyelj. Én egy kőgyökér nevű növényt keresek. Ahogy hallottad, a borbély-orvos úgy gondolja, hogy látta itt a környéken.",
-  "DIA_Ramha_QA202_HEY_03_02": "Az a probléma, hogy nehéz kiásni, és valószinüleg lesz más... akadály.",
+  "DIA_Ramha_QA202_HEY_03_02": "Az a probléma, hogy nehéz kiásni, és valószínűleg lesz más... akadály.",
   "DIA_Ramha_QA202_HEY_15_03": "Micsoda?",
   "DIA_Ramha_QA202_HEY_03_04": "A leírás alapján ha kihúzod a földből, akkor a gyökere olyan erős szagot fog ereszteni, ami a közeli állatokat bevonzza. És itt jössz be te a képbe.",
   "DIA_Ramha_QA202_HEY_15_05": "Azt akarod, hogy ne zavarjanak az állatok?",
@@ -130,7 +130,7 @@
   "DIA_Ramha_KQ406_Rats_03_04": "Mit mondtál?",
   "DIA_Ramha_KQ406_Rats_15_05": "Patkányok ólálkodnak a házamnál. Egy helyre szeretném őket csalogatni, hogy egyszer s mindenkorra végezzek velük!",
   "DIA_Ramha_KQ406_Rats_03_06": "Tudom mire gondolsz. Már nem egyszer volt nálunk ez a probléma. 150 arany és tiéd a csali!",
-  "DIA_Ramha_KQ406_Buy_Description": "Rendben, megveszem a csalit. (150 Arany)",
+  "DIA_Ramha_KQ406_Buy_Description": "Rendben, megveszem a csalit. (150 arany)",
   "DIA_Ramha_KQ406_Buy_15_01": "Rendben, megveszem azt a csalit.",
   "DIA_Ramha_KQ406_Buy_03_02": "Ne öntsd ki az egész üveg tartalmát, különben az egész környék rohadt patkánya oda fog menni!",
   "DIA_Ramha_Teach_15_01": "Taníts meg jobb alkímiai technikákat.",
@@ -144,5 +144,5 @@
   "DIA_Ramha_Ambient_13_04": "Bocsáss meg, de a jelenlétet rossz hatással van a főzeteimre.",
   "DIA_Ramha_Ambient_13_05": "Kéne valami konkrét?",
   "DIA_Ramha_PotionReady_Price_Choice": "Miért nem viszed lejjebb egy kicsivel azt az árat?",
-  "DIA_Ramha_KQ402_Rust_NewArmor_Choice": "Az őrség új páncélzatáról lenne szó."
+  "DIA_Ramha_KQ402_Rust_NewArmor_Choice": "Az Őrség új páncélzatáról lenne szó."
 }
