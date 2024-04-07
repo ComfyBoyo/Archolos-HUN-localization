@@ -1,7 +1,7 @@
 "lang"
 {
 	"Language"	"hungarian"
-	"Tokenek"
+	"Tokens"
 	{
 		"#Status_InMenu"	"A főmenüben"
 		"#Status_InGame"	"{#Status_Guild_%guild%} - Szint %level% - Fejezet %chapter%"
@@ -9,7 +9,7 @@
 		"#Status_Guild_Citizen"	"Polgár"
 		"#Status_Guild_WaterCircle"	"Víz köre"
 		"#Status_Guild_Runner"	"Fullajtár"
-		"#Status_Guild_VeteranRunner"	"Elit Fullajtár"
+		"#Status_Guild_VeteranRunner"	"Elit fullajtár"
 		"#Status_Guild_Mercenary"	"Zsoldos"
 		"#Status_Guild_Hunter"	"Vadász"
 		"#Status_Guild_VeteranMercenary"	"Elit zsoldos"
