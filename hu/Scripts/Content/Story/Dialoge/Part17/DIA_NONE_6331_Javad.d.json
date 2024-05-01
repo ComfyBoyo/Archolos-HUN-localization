@@ -5,7 +5,7 @@
   "DIA_Javad_Q305_03_04": "Ha még egyszer annak nevezel, akkor kiverem a szép fogaidat a... hah, fejszémmel!",
   "DIA_Javad_Q305_15_05": "Nyugi. Engem csak a ládád érdekel, nem szeretnék harcolni.",
   "DIA_Javad_Q305_03_06": "Ó, pajtás! Most túlreagálsz. Nem csak sértegetsz engem, de még a SAJÁT tulajdonomtól is meg akarsz fosztani.",
-  "DIA_Javad_Q305_03_07": "Ezért vérrel fogsz fizetni! Megmutatom neked, hogy a Déliek hogyan bánnak a tolvajokkal!",
+  "DIA_Javad_Q305_03_07": "Ezért vérrel fogsz fizetni! Megmutatom neked, hogy a déliek hogyan bánnak a tolvajokkal!",
   "DIA_Javad_CalmDown_Place_03_16": "Viszlát, idegen.",
   "DIA_Javad_CalmDown_15_01": "Lenyugodtál végre?",
   "DIA_Javad_CalmDown_03_02": "Tudtam én, hogy sok tapasztalt harcos lesz Archoloson!",
@@ -15,7 +15,7 @@
   "DIA_Javad_CalmDown_15_06": "Amúgy szép kis 'gyűjteményed' van tetemekből.",
   "DIA_Javad_CalmDown_03_07": "Mit kéne, hogy mondjak? Ezek a vadállatok meg akartak enni, az meg nekem nem igazán tetszett.",
   "DIA_Javad_CalmDown_Who_15_01": "Ki is vagy te?",
-  "DIA_Javad_CalmDown_Who_03_02": "A nevem Javad. Én egy büszke Déli vagyok és azért jöttem ide, hogy méltó ellenfelekkel találkozhassak.",
+  "DIA_Javad_CalmDown_Who_03_02": "A nevem Javad. Én egy büszke déli vagyok és azért jöttem ide, hogy méltó ellenfelekkel találkozhassak.",
   "DIA_Javad_CalmDown_Who_03_03": "Voltam Londramban, de fölösleges volt ott kihívást keresni. Azt mondták, hogy a régió központjában több kihívást találok.",
   "DIA_Javad_CalmDown_Who_15_04": "Szigetről szigetre hajózol azért, hogy harcolhass?",
   "DIA_Javad_CalmDown_Who_03_05": "Mi azzal a baj? Hol van a jó harc élvezete egy olyan küzdelemben, ahol tudod, hogy nyerni fogsz?",
@@ -84,7 +84,7 @@
   "DIA_Javad_HowsThere_03_02": "Soha életemben nem láttam még ekkora várost. Még mindig eltévedek néhány utcában, de nem panaszkodom. Archolos a lehetőségek városa. Majd meglátjuk, mi lesz a következő lépés.",
   "DIA_Javad_HowsThere_03_03": "Ez pontosan az a hely, amit kerestem, itt lehet aranyat keresni de nem lehet unatkozni. Még jó, hogy idehoztál!",
   "DIA_Javad_CalmDown_Talk_Sure_Choice": "Rendben. Majd én elintézem azokat a bestiákat. És veled mi lesz?",
-  "DIA_Javad_CalmDown_Talk_Sure_Warriors_Choice": "Tudom, hol találsz harcosokat. (Küldd el a dokkba)",
+  "DIA_Javad_CalmDown_Talk_Sure_Warriors_Choice": "Tudom, hol találsz harcosokat. (Küldd el a Dokkba)",
   "DIA_Javad_CalmDown_Talk_Sure_Warriors_Place_Choice": "Tudok egy helyet, ahol hasznos lehetsz. (Küldd el a városba)",
   "DIA_Javad_TournamentFight_Win_Choice": "Javad, meg kell nyernem ezt a bajnokságot."
 }
