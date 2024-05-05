@@ -179,7 +179,7 @@
 	"MENU_TEXT_OPTIONS_VIDEO_GAMMA": "Gamma",
 	"MENU_TEXT_OPTIONS_VIDEO_WINDOWED": "Ablakos mód",
 	"MENU_TEXT_OPTIONS_VIDEO_WINDOWED_COMMENT": "A módosítás csak az újraindításkor lép életbe! Javíthatja az összeomlásokat.",
-	"MENU_TEXT_OPTIONS_VIDEO_SCALEVIDEOS": "Méretarányos videók",
+	"MENU_TEXT_OPTIONS_VIDEO_SCALEVIDEOS": "Teljes képernyős videók",
 	"MENU_TEXT_OPTIONS_VIDEO_SCALEVIDEOS_COMMENT": "Javíthatja az összeomlásokat.",
 	"MENU_TEXT_LOG_CATEGORY_ACTIVE_MISSIONS": "Jelenlegi\\nfeladatok",
 	"MENU_TEXT_LOG_CATEGORY_OLD_MISSIONS": "Régebbi\\nfeladatok",
