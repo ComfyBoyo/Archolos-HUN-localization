@@ -1,6 +1,6 @@
 ﻿{
   "DIA_Silvestr_Hello_101_02": "Helló, idegen. Mi szél hozott hozzám, egy paladin jelöltet?",
-  "DIA_Silvestr_Hello_15_03": "Ha megkérhetem ... Mit csinálsz ezen a szigeten? Nem az orkok ellen kellene harcolnod a fronton?",
+  "DIA_Silvestr_Hello_15_03": "Ha megkérhetem... mit csinálsz ezen a szigeten? Nem az orkok ellen kellene harcolnod a fronton?",
   "DIA_Silvestr_Hello_101_04": "Eljön az idő, amikor kardom lesújt ezekre a vadállatokra. Egy nagyon fontos küldetésben járok el.",
   "DIA_Silvestr_Hello_15_05": "Egy küldetés?",
   "DIA_Silvestr_Hello_101_06": "Sajnálom, de nem mondhatok részleteket. Mondjuk úgy, hogy valami nagyon fontosat keresek. Elég fontos ahhoz, hogy befolyásolhassa a háború kimenetelét.",
@@ -42,12 +42,12 @@
   "DIA_Silvestr_CQ005_NoTime_15_04": "Köszönöm, kívánom, hogy imád meghallgatásra találjon.",
   "DIA_Silvestr_CQ005_Scum_101_01": "Te mocskos vérszívó!",
   "DIA_Silvestr_CQ005_Scum_101_02": "Egy vacak követ adtál nekem!",
-  "DIA_Silvestr_CQ005_Scum_15_03": "Várj ...",
+  "DIA_Silvestr_CQ005_Scum_15_03": "Várj...",
   "DIA_Silvestr_CQ005_Scum_101_04": "Azonnal meg kéne hogy öljelek! Szerencséd, hogy szent földön állunk, és nem onthatok itt vért!",
   "DIA_Silvestr_CQ005_Here_15_01": "Tessék, itt van.",
   "DIA_Silvestr_CQ005_Here_101_02": "Legalább ehhez volt elég becsületed.",
   "DIA_Silvestr_CQ005_Here_101_03": "Azonban ezt nem hagyhatom figyelmen kívül!",
-  "DIA_Silvestr_CQ005_NoPaper_15_01": "Sajnos már nincs nálam ...",
+  "DIA_Silvestr_CQ005_NoPaper_15_01": "Sajnos már nincs nálam...",
   "DIA_Silvestr_CQ005_NoPaper_101_02": "Beliar átkozott ivadéka!",
   "DIA_Silvestr_CQ005_NoPaper_101_03": "De semmi sincs veszve!",
   "DIA_Silvestr_CQ005_NoPaper_101_04": "Gondoskodom róla, hogy a tömlöcben végezd! A Bányavölgyben fogsz dolgozni, mindezt a királyság javára!",
@@ -107,5 +107,5 @@
   "DIA_Silvestr_Ambient_03_04": "Minden rendben. Van valami mondanivalód?",
   "DIA_Silvestr_Ambient_03_05": "A lecke, amit Innostól tanultam, még szebbé teszi. Minden nap imádkozva küldök neki köszönetet!",
   "DIA_Silvestr_CQ005_Scum_Here_Choice": "Tessék, az ajánlólevél.",
-  "DIA_Silvestr_CQ005_Scum_NoPaper_Choice": "Sajnos már nincs nálam az ajánlásod ..."
+  "DIA_Silvestr_CQ005_Scum_NoPaper_Choice": "Sajnos már nincs nálam az ajánlásod..."
 }
