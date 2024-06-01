@@ -1,6 +1,6 @@
 ﻿{
   "DIA_Prawus_Hello_15_00": "Hé, te meg mit csinálsz ott?",
-  "DIA_Prawus_Hello_14_01": "Kutya pisit iszok, mert ennél jobbat nem tud adni egy bolhafészek.",
+  "DIA_Prawus_Hello_14_01": "Kutyapisát iszok, mert ennél jobbat nem tud adni egy bolhafészek.",
   "DIA_Prawus_Hello_14_02": "Mi a francot érdekel az téged, te bunkó?",
   "DIA_Prawus_BetterDrink_15_00": "Mit szólnál, ha veszek neked valami jobbat?",
   "DIA_Prawus_BetterDrink_14_01": "Hát, szívesen innék még többet, hehe.",
@@ -10,7 +10,7 @@
   "DIA_Prawus_Nothing_14_01": "Miről beszélsz te?",
   "DIA_Prawus_Nothing_15_02": "Semmi, semmi. Nem zavarok.",
   "DIA_Prawus_BlackTroll_15_01": "Egészségedre.",
-  "DIA_Prawus_BlackTroll_14_02": "Ez még az előbb lehúzott piánál is jobban hasonlít a pisire.",
+  "DIA_Prawus_BlackTroll_14_02": "Ez még az előbb lehúzott piánál is jobban hasonlít a pisára.",
   "DIA_Prawus_BlackTroll_14_03": "Te most csak szórakozol, ugye?",
   "DIA_Prawus_BlackTroll_15_04": "Ez a legerősebb, amit találtam, garantálom. Fekete Trollnak hívják.",
   "DIA_Prawus_BlackTroll_14_05": "Ó baszki... áhh... jól átrendezi a pofámat!",
@@ -35,8 +35,8 @@
   "DIA_Prawus_AfterFight_15_03": "Sajnos az volt az utolsó üveg.",
   "DIA_Prawus_AfterFight_14_04": "Ó, picsába. Akkor vissza kell térnem ahhoz az undorító sörhöz.",
   "DIA_Prawus_BlackTroll_14_07": "Nézzük csak...",
-  "DIA_Prawus_Ambient_03_01": "Ahelyett, hogy a fülembe pofázol, inkább tedd magad hasznossá és hozz nekem egy pár piát.",
-  "DIA_Prawus_Ambient_03_02": "Gyorsan, különben rossz leszek!",
+  "DIA_Prawus_Ambient_03_01": "Ahelyett, hogy a fülembe duruzsolsz, inkább tedd magad hasznossá és hozz nekem egy pár piát.",
+  "DIA_Prawus_Ambient_03_02": "Gyorsan, különben bosszús leszek!",
   "DIA_Prawus_YouHaveProblem_Choice": "Az egyik fickó mondott rólad valamit.",
   "DIA_Prawus_HelpMe_Choice": "Segítenél lekoptatni ezt a három részeget?"
 }
