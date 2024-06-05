@@ -14,8 +14,8 @@
   "DIA_OldDog_RottenFish_Choice": "(Adj rohadt halat)",
   "DIA_OldDog_Boar_Choice": "(Adj sült vaddisznó húst)",
   "DIA_OldDog_Boar_Raw_Choice": "(Adj nyers vaddisznó húst)",
-  "DIA_OldDog_SheepFried_Choice": "(Adj sült bárány húst)",
-  "DIA_OldDog_Sheep_Raw_Choice": "(Adj nyers bárány húst)",
+  "DIA_OldDog_SheepFried_Choice": "(Adj sült birka húst)",
+  "DIA_OldDog_Sheep_Raw_Choice": "(Adj nyers birka húst)",
   "DIA_OldDog_MoleratMeat_Choice": "(Adj sült vakondpatkány húst)",
   "DIA_OldDog_MoleratMeat_Raw_Choice": "(Adj nyers vakondpatkány húst)",
   "DIA_OldDog_ShadowMeat_Choice": "(Adj sült árnyékfutó húst)",
@@ -27,11 +27,11 @@
   "DIA_OldDog_Bear_Choice": "(Adj sült medve húst)",
   "DIA_OldDog_Bear_Raw_Choice": "(Adj nyers medve húst)",
   "DIA_OldDog_Crab_Choice": "(Adj sült rákollót)",
-  "DIA_OldDog_Crab_Raw_Choice": "(Adj sült rákollót)",
+  "DIA_OldDog_Crab_Raw_Choice": "(Adj nyers rákollót)",
   "DIA_OldDog_Wolf_Choice": "(Adj sült farkas húst)",
   "DIA_OldDog_Wolf_Raw_Choice": "(Adj nyers farkas húst)",
   "DIA_OldDog_RoastedRatMeat_Choice": "(Adj sült patkány húst)",
   "DIA_OldDog_RatMeatRaw_Choice": "(Adj nyers patkány húst)",
-  "DIA_OldDog_MeatBug_Fried_Choice": "(Adj sült bogár húst)",
-  "DIA_OldDog_MeatBug_Choice": "(Adj bogár húst)"
+  "DIA_OldDog_MeatBug_Fried_Choice": "(Adj sült húspoloskát)",
+  "DIA_OldDog_MeatBug_Choice": "(Adj nyers húspoloskát)"
 }
