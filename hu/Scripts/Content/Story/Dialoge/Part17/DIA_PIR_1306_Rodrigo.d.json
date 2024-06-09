@@ -82,9 +82,9 @@
   "DIA_Rodrigo_BCAfterFight_03_01": "Láttad az arcukat? Még a vaddisznók sem voltak ilyen pánikban, amikor beleestek az ilyen lyukakban.",
   "DIA_Rodrigo_BCAfterFight_03_02": "Átkozott idióták, így végezni csak pár aranyért. Számíthattak volna rá, ha már Cortezzel szívóznak.",
   "DIA_Rodrigo_BCAfterFight_Lost_03_03": "Mi eltakarítjuk a maradványaikat, te menj vissza a Dokkba, a kapitány minél hamarabb szeretné hallani a híreket.",
-  "DIA_Rodrigo_BCAfterFight_Lost_15_01": "Coyote elmenekült.",
+  "DIA_Rodrigo_BCAfterFight_Lost_15_01": "Kojot elmenekült.",
   "DIA_Rodrigo_BCAfterFight_Lost_03_02": "Nem lennék a helyedben, amikor erről beszámolsz.",
-  "DIA_Rodrigo_BCAfterFight_Dead_15_01": "Elfogtam Coyoteot. Nem volt olyan gyors, mint gondolta.",
+  "DIA_Rodrigo_BCAfterFight_Dead_15_01": "Elfogtam Kojotot. Nem volt olyan gyors, mint gondolta.",
   "DIA_Rodrigo_BCAfterFight_Dead_03_02": "Az elején azt hittem, hogy csak elfutottál amikor megláttad őket. Nem rossz, kölyök. Cortez örülni fog.",
   "DIA_Rodrigo_Ambient_13_15": "Korog a hasam...",
   "DIA_Rodrigo_Ambient_13_16": "Semmi új, kölyök. Nem kell aggódni.",
@@ -101,5 +101,5 @@
   "DIA_Rodrigo_Q306_AfterTournament_03_01": "A szárazföldi életnek is megvannak az előnyei, a tengeren sose tudtunk ilyen lakomákat tartani vagy ilyen sok bort inni!",
   "DIA_Rodrigo_Stan_gambling_Choice": "Kiderítettem valamit a Stannel való fogadásaidról.",
   "DIA_Rodrigo_Stan_encounter_Choice": "Tudom, hogy Sárkányport tettél Stan ételébe.",
-  "DIA_Rodrigo_BCAfterFight_Dead_Choice": "Sikerült elkapnom Coyoteot."
+  "DIA_Rodrigo_BCAfterFight_Dead_Choice": "Sikerült elkapnom Kojotot."
 }
