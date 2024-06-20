@@ -214,9 +214,9 @@
 	"WrittenText_Bookstand_Meele_6": "- Kétkezes, ügyesség: hosszú lándzsák és dárdák.",
 	"WrittenText_Bookstand_Meele_7": "Minden fegyvernek van előnye és hátránya. A viselője ereje azonban jelentősen befolyásolja a csapások hatékonyságát.",
 	"WrittenText_Bookstand_Meele_8": "De ne csaljon meg az erő önmagában. Az ügyességet igénylő fegyverek ugyanolyan halálosak lehetnek. Különösen kiegyensúlyozott gyakorlással.",
-	"WrittenText_Bookstand_Meele_9": "Az edzés rendkívül fárasztó lehet, és hihetetlen mennyiségű munkát igényel. Aki lándzsával vagy karddal harcol, a képességeit és az erejét is fejleszti. Előbbi lehetővé teszi, hogy még a vaskos fegyvereket is biztosan forgassa, ugyanakkor még a könnyű erőnléti edzés is növeli a csapások erejét.",
-	"WrittenText_Bookstand_Meele_10": "Függetlenül a választott fegyvertől, az egy vagy kétkezes harcot is gyakorolni kell. Ez lehetővé teszi, a gyorsabban csapásokat, ami összetett kombinációkhoz köthető, így gyakrabban lehet különösen pontos és erőteljes csapásokat kivitelezni.",
-	"WrittenText_Bookstand_Meele_11": "Tudatosan válasszuk ki azt a fegyvertípust, melyik a legjobban hozzánk illő. Bátran kísérletezzünk, ne hagyatkozzunk a legegyszerűbb megoldásokra. Így biztosan kiváló harcossá válunk.",
+	"WrittenText_Bookstand_Meele_9": "Az edzés rendkívül fárasztó lehet, és hihetetlen mennyiségű munkát igényel. Aki lándzsával vagy karddal harcol, a képességeit és az erejét is fejleszti. Előbbi által még a vaskos fegyvereket is biztosan forgathatjuk, ugyanakkor a könnyű erőnléti edzés is növeli a csapások erejét.",
+	"WrittenText_Bookstand_Meele_10": "Függetlenül a választott fegyvertől, az egy vagy kétkezes harcot is gyakorolni kell. Ez lehetővé teszi, a gyorsabb csapásokat, ami összetett kombinációkhoz köthető, így gyakrabban lehet velük különösen pontosan és erőteljesen lecsapni.",
+	"WrittenText_Bookstand_Meele_11": "Tudatosan válasszuk ki a leginkább hozzánk illő fegyvertípust. Bátran kísérletezzünk, ne hagyatkozzunk a legegyszerűbb megoldásokra. Így biztosan kiváló harcossá válunk.",
 	"WrittenText_Bookstand_Mining_1": "Az eredményes bányászat és favágás alapja a megfelelő testtartás. Aki ezt nem veszi a szívügyének, az nem jár sikerrel. Ráadásul csak az tudja felismerni, hogy hová kell a következő csapást mérni, aki szemmel tartja a lelőhelyet.",
 	"WrittenText_Bookstand_Mining_2": "Bár elsőre különbözőnek tűnhet, mind a bányászat, mind a favágás egy képzettségnek (nyersanyag kitermelésnek) tekinthető.",
 	"WrittenText_Bookstand_Mining_3": "Sokan abban a tévhitben élnek, hogy az erő vagy az ügyesség befolyásolja az eredményt, de a legfontosabb dolog kétségtelenül a gyakorlat.",
@@ -2170,7 +2170,7 @@
 	"WrittenText_NewsBoard_Silbach_News_GoldMine_1": "A Kereskedő Céhnek bányája aranybányász szakmunkára buzdít minden érdeklődőt!",
 	"WrittenText_NewsBoard_Silbach_News_GoldMine_2": "Silbach faluja és a méhész tábor között található magánbányánkban lévő lelőhelyekhez kínálunk hozzáférést. Csekély belépődíj megfizetése után addig bányászhat aranyat, ameddig csak akar!",
 	"WrittenText_NewsBoard_Silbach_News_GoldMine_3": "Függetlenül a bányászati hozzáértésétől, itt mindig talál majd valamit, ami kedvére való!",
-	"WrittenText_NewsBoard_Silbach_News_GoldMine_4": "Majd amikor kijön a bányából, kezében a ragyogó rögökkel, a kovácsunk szívesen beváltja azokat valódi aranyérmékre, amelyeket egész Myrtanában elfogadnak!",
+	"WrittenText_NewsBoard_Silbach_News_GoldMine_4": "Miután kijön a bányából, kezében a ragyogó rögökkel, a kovácsunk szívesen beváltja azokat valódi aranyérmékre, amelyeket egész Myrtanában elfogadnak!",
 	"WrittenText_NewsBoard_Silbach_News_GoldMine_5": "Természetesen szívesen becseréljük a gyönyörű szigetünkön bárhol fellelt többi rögöt is.",
 	"WrittenText_NewsBoard_Silbach_News_GoldMine_6": "Legegyszerűbben úgy juthat el a bányához, ha igénybe veszi fullajtárjaink szolgáltatásait - néhány érméért biztonságban ideérhet!",
 	"WrittenText_NewsBoard_Silbach_News_Remy_1": "Egy váratlan nagy megrendelés folytán Remy mészárosnak sürgősen szüksége van egy tucatnyi nyers húsra az alábbi állatokból:",
@@ -2206,5 +2206,5 @@
 	"WrittenText_NewsBoard_Silbach_News_Carden_4": "- 6 vaddisznó prém",
 	"WrittenText_NewsBoard_Silbach_News_Carden_5": "- 16 patkány bunda",
 	"WrittenText_NewsBoard_Silbach_News_Carden_6": "A prémek egyenként is leadhatók és azonnal kifizetésre kerülnek!",
-	"WrittenText_NewsBoard_Silbach_News_Carden_7": "Carden napközben, Silbach keleti kapuja mögötti ösvényen található, az esti órákban pedig a déli kapunál lévő vadásztáborban tartózkodik."
+	"WrittenText_NewsBoard_Silbach_News_Carden_7": "Carden napközben, Silbach keleti kapuja mögötti ösvénynél található, az esti órákban pedig a déli kapunál lévő vadásztáborban tartózkodik."
 }

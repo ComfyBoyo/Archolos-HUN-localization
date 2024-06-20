@@ -89,8 +89,8 @@
   "DIA_Lokvar_SQ105_Second_706_23": "Figyelmeztetlek, hogy csak néhány fegyver képes ártani nekik.",
   "DIA_Lokvar_SQ105_Second_monsters_15_00": "Ha szörnyek fészkelnek ott, akkor miért nem szólsz a faluőröknek róluk?",
   "DIA_Lokvar_SQ105_Second_monsters_706_01": "Mert ez a te próbád, és nem az övék.",
-  "DIA_Lokvar_SQ105_Second_monsters_ok_15_00": "Oké, hát... meglátom, hogy mit tehetek.",
-  "DIA_Lokvar_SQ105_Second_monsters_ok_706_01": "Vidd ezt a kulcsot, ez kinyitja az ajtót a kápolnába.",
+  "DIA_Lokvar_SQ105_Second_monsters_ok_15_00": "Jó, hát... meglátom, hogy mit tehetek.",
+  "DIA_Lokvar_SQ105_Second_monsters_ok_706_01": "Fogd ezt a kulcsot, ez nyitja a kápolna ajtaját.",
   "DIA_Lokvar_SQ105_Second_monsters_ok_706_02": "Menj, és Adanos legyen veled!",
   "DIA_Lokvar_SQ105_Second_monsters_weapon_15_00": "Mivel tudom őket megölni?",
   "DIA_Lokvar_SQ105_Second_monsters_weapon_706_01": "Fogj egy seprűt.",
@@ -155,7 +155,7 @@
   "DIA_Lokvar_SQ118_AboutFlora_Pay_706_01": "Köszönjük ezt a bőkezű adományt a közösségünk szükségleteinek fedezésére.",
   "DIA_Lokvar_SQ118_AboutFlora_Pay_706_02": "Adanos áldjon meg!",
   "DIA_Lokvar_SQ118_AboutFlora_Think_15_01": "Átgondolom.",
-  "DIA_Lokvar_SQ118_AboutFlora_Convince_15_01": "Hogy győzöm meg a falusiakat?",
+  "DIA_Lokvar_SQ118_AboutFlora_Convince_15_01": "Hogy győzzem meg a falusiakat?",
   "DIA_Lokvar_SQ118_AboutFlora_Convince_706_02": "A temető egy kissé elhanyagolt.",
   "DIA_Lokvar_SQ118_AboutFlora_Convince_706_03": "Ha kigyomlálod, és rendbe teszed, akkor szerintem megnyered a helyiek együttérzését.",
   "DIA_Lokvar_SQ118_AboutFlora_Convince_706_04": "Azt a tényt is jobban fogják viselni, hogy egy idegenért adnak fel egy helyet.",
@@ -196,5 +196,5 @@
   "DIA_Lokvar_WaterCircle_03_03": "Helyezd magad kényelembe, és vidd, amire szükséged van.",
   "DIA_Lokvar_SQ105_Second_monsters_Choice": "Miért nem a faluőröknek mondod ezt?",
   "DIA_Lokvar_WhereIsJorn_More_Choice": "Azt hittem, hogy erről többet tudsz.",
-  "DIA_Lokvar_SELLPLANTS_Description": "Itt van minden, amire szükséged van. (Kék bodza eladása)"
+  "DIA_Lokvar_SELLPLANTS_Description": "Megvan, amit keresel. (Kék bodza eladása)"
 }
