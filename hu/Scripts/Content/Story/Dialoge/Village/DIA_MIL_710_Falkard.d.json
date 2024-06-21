@@ -1,6 +1,6 @@
 ﻿{
   "DIA_Folkard_Burglary_15_02": "Mi történt itt?",
-  "DIA_Folkard_Burglary_03_03": "Úgy tudom, hogy volt itt egy betörés, de nem tudom a részleteket.",
+  "DIA_Folkard_Burglary_03_03": "Úgy tudom, hogy volt itt egy betörés, de nem ismerem a részleteket.",
   "DIA_Folkard_JornGone_15_01": "Lehet pár kérdésem?",
   "DIA_Folkard_JornGone_03_02": "Általában én kérdezek másokat, de lehet. Mit szeretnél tudni?",
   "DIA_Folkard_JornGone_whatuknow_15_01": "Mit tudsz a betörésről?",
@@ -16,7 +16,7 @@
   "DIA_Folkard_JornGone_haveuseen_15_07": "Én sem akarom elhinni, de a tények magukért beszélnek.",
   "DIA_Folkard_JornGone_haveuseen_03_08": "Nem bocsátkoznék feltételezésekbe a helyedben.",
   "DIA_Folkard_JornGone_haveuseen_03_09": "Megígérem, hogy tájékoztatni foglak, ha valamit sikerül kiderítenem a testvéredről.",
-  "DIA_Folkard_JornGone_haveuseen_03_10": "Azonban ha valóban emberrablás történt, akkor tartok tőle, hogy a Városőrség tud csak ebben segíteni.",
+  "DIA_Folkard_JornGone_haveuseen_03_10": "Ha valóban emberrablás történt, akkor tartok tőle, hogy a Városőrség tud csak ebben segíteni.",
   "DIA_Folkard_Hello_03_01": "Új vagy itt? Legutóbb a barátoddal rohangáltál erre. Olyan részegek voltatok, hogy semmit nem tudtam kiszedni belőletek.",
   "DIA_Folkard_Hello_03_02": "Szerencsétek, hogy láttam, ahogy elhagyjátok a falut, mert biztos nem engedtelek volna titeket vissza.",
   "DIA_Folkard_Hello_03_03": "Új vagy itt? Nem hiszem, hogy láttalak itt ezelőtt.",
