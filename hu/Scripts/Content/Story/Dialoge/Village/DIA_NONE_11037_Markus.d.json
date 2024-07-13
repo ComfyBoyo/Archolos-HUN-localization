@@ -129,12 +129,12 @@
   "DIA_Markus_SellTrophy_03_04": "Csak karmokat és fogakat veszek át!",
   "DIA_Markus_SellTrophy_15_01": "Hoztam trófeákat!",
   "DIA_Markus_Q205_Camp_Guards_Choice": "Az őrök a felelősek az elpusztult állatokért?",
-  "DIA_Markus_SellTrophy_Claws_Choice": "(Közönséges karmok átadása)",
-  "DIA_Markus_SellTrophy_ClawsLurker_Choice": "(Lopakodó karmok átadása)",
-  "DIA_Markus_SellTrophy_ClawsSeaLurker_Choice": "(Tengeri lopakodó karmok átadása)",
-  "DIA_Markus_SellTrophy_Teeth_Choice": "(Közönséges fogak átadása)",
-  "DIA_Markus_SellTrophy_BoarTeeth_Choice": "(Vaddisznó agyar átadása)",
-  "DIA_Markus_SellTrophy_TrollTeeth_Choice": "(Troll agyar átadása)",
-  "DIA_Markus_SellTrophy_SwampSharkTeeth_Choice": "(Mocsári cápa fogak átadása)",
-  "DIA_Markus_SellTrophy_SeaSharkTeeth_Choice": "(Parti cápa fogak átadása)"
+  "DIA_Markus_SellTrophy_Claws_Choice": "(Közönséges karmok eladása)",
+  "DIA_Markus_SellTrophy_ClawsLurker_Choice": "(Lopakodó karmok eladása)",
+  "DIA_Markus_SellTrophy_ClawsSeaLurker_Choice": "(Tengeri lopakodó karmok eladása)",
+  "DIA_Markus_SellTrophy_Teeth_Choice": "(Közönséges fogak eladása)",
+  "DIA_Markus_SellTrophy_BoarTeeth_Choice": "(Vaddisznó agyar eladása)",
+  "DIA_Markus_SellTrophy_TrollTeeth_Choice": "(Troll agyar eladása)",
+  "DIA_Markus_SellTrophy_SwampSharkTeeth_Choice": "(Mocsári cápa fogak eladása)",
+  "DIA_Markus_SellTrophy_SeaSharkTeeth_Choice": "(Parti cápa fogak eladása)"
 }
