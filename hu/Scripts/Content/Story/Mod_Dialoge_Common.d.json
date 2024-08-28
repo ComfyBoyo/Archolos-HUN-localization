@@ -1,7 +1,7 @@
 ﻿{
   "DIALOG_GIVEARMOR_GIVEBACK": "ÖSSZES PÁNCÉLT VISSZAADNI",
   "DIALOG_DriveAway": "(Elzavar)",
-  "DIALOG_Pet": "(Simogat)",
+  "DIALOG_Pet": "(Simogatni)",
   "DIALOG_GiveAName": "(Elnevez)",
   "DIALOG_TalkToDoggo": "(Beszélni a kutyához)",
   "DIALOG_Finish": "(Abbahagyni)",
@@ -15,7 +15,7 @@
   "DIALOG_Intervene": "(Közbelépni)",
   "DIALOG_OfferSwampWeed": "(Kenderrudat ajánlani)",
   "DIALOG_GiveHealingPotion": "(Gyógyitalt adni)",
-  "DIALOG_GiveFurs": "(Bőröket odaadni)",
+  "DIALOG_GiveFurs": "(Prémeket odaadni)",
   "DIALOG_BuyArmor": "(Páncélt vásárolni)",
   "DIALOG_GiveArmor": "(Páncélt átadni)",
   "DIALOG_SetPose": "(Elhelyezést kiválasztani)",
