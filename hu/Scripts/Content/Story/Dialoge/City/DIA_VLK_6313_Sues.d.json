@@ -32,10 +32,10 @@
   "DIA_Sues_WoodCutter_03_05": "Hmm...",
   "DIA_Sues_WoodCutter_03_06": "Látom értesz az üzlethez. Adok neked egy esélyt, mert biztos van tapasztalatod a fákkal.",
   "DIA_Sues_WoodCutter_03_07": "Ülj le, nézzük meg hogyan megy.",
-  "DIA_Sues_InnosReady_15_01": "Szóval minden arany Innos valójában fából vannak?",
-  "DIA_Sues_InnosReady_03_02": "Aranyozva vannak. A vásárlók az arany Innos külsejét nézik. Így sokkal olcsóbbak és többen képesek kifizetni.",
+  "DIA_Sues_InnosReady_15_01": "Szóval minden arany Innos valójában fából van?",
+  "DIA_Sues_InnosReady_03_02": "Aranyozottak. A vásárlók csak azt látják, hogy arany az Innosok külseje. Így sokkal olcsóbb és többen tudják megfizetni.",
   "DIA_Sues_InnosReady_15_03": "Hogyan aranyozod őket?",
-  "DIA_Sues_InnosReady_03_04": "Az az én titkom. Ha elkezdeném megosztani, akkor napokon belül elveszíteném a munkámat.",
+  "DIA_Sues_InnosReady_03_04": "Az az én titkom. Ha elárulnám, akkor napokon belül elveszíteném a munkámat.",
   "DIA_Sues_InnosReady_03_06": "Nem rossz, egy kis gyakorlat és aztán el is tudhatnád adni valakinek.",
   "DIA_Sues_InnosReady_03_07": "Itt a kulcsom, menj be. Mia bent elmondja, hogy mit kell tenned.",
   "DIA_Sues_SQ309_GotSkill_Description": "Tudok fát megmunkálni.",
@@ -44,7 +44,7 @@
   "DIA_Sues_SQ309_GotSkill_15_03": "Még Davisnek is dolgozok.",
   "DIA_Sues_SQ309_GotSkill_15_04": "Szerintem egyértelmű, hogy képes vagyok valamire.",
   "DIA_Sues_SQ309_GotSkill_03_05": "Ennyire magabiztos vagy? Hát, derítsük ki.",
-  "DIA_Sues_SQ309_GotSkill_03_06": "Foglalj helyet. Nézzük meg hogyan megy.",
+  "DIA_Sues_SQ309_GotSkill_03_06": "Ülj le. Lássuk, hogyan boldogulsz.",
   "DIA_Sues_HELLO_Innos_Dima_WhatDo_Choice": "Ha megmondod, hogy mit tegyek, akkor valamiben biztos megállapodhatunk.",
   "DIA_Sues_HELLO_Innos_Dima_Choice": "Dima mondta, hogy egész ládákat vásárolt tőled ezekből a figurákból."
 }
