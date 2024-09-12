@@ -37,11 +37,11 @@
   "DIA_Havard_Q404_AfterMine_BurnNo_15_01": "Sajnos túl sok volt azokból a dögökből, nem volt választásom.",
   "DIA_Havard_Q404_AfterMine_BurnNo_03_02": "Megértem. Nem is hibáztatlak. A fontos az, hogy tudom mi történt vele.",
   "DIA_Havard_What_15_01": "Havard? Mit keres egy farkasfi ilyen messze az otthonától...",
-  "DIA_Havard_What_03_02": "Ismét találkozunk, jó téged látni harcos!",
+  "DIA_Havard_What_03_02": "Újra találkozunk, jó látni téged harcos!",
   "DIA_Havard_What_03_03": "Igen, ez igaz, ritkán hagyjuk el az otthonunkat. Úgy is mondhatnám, hogy inkább magánjelleggel vagyok itt...",
-  "DIA_Havard_What_03_04": "Segítek ezeknek a parasztoknak és falusiaknak, hogy megtanulják a kard használatát az alapoktól.",
-  "DIA_Havard_What_03_05": "Ha a hírek az orkokról nem is igazak, attól függetlenül nem árt az, ha megtudják magukat védeni lopakodóktól vagy földrablóktól.",
-  "DIA_Havard_What_03_06": "Még egyszer kösz a bányával kapcsolatos üggyel.",
+  "DIA_Havard_What_03_04": "Segítek ezeknek a falusi parasztoknak, hogy megtanulják a kardhasználatát alapjait.",
+  "DIA_Havard_What_03_05": "Ha a hírek az orkokról nem is igazak, attól függetlenül nem árt, ha megtudják magukat védeni a lopakodóktól vagy földrablóktól.",
+  "DIA_Havard_What_03_06": "Még egyszer köszönöm a bányával kapcsolatos ügyet.",
   "DIA_Havard_What_03_07": "Ha most megbocsátasz, visszamegyek gyakorolni. Megígértem nekik, hogy megtanulnak felváltva jobbra és balra szabdalni.",
   "DIA_Havard_Q509_Question_15_01": "Most nekem kéne a segítséged.",
   "DIA_Havard_Q509_Question_15_02": "Vardhal romjaihoz megyek és méltó harcosokra lenne szükségem.",
@@ -49,6 +49,6 @@
   "DIA_Havard_Q509_Question_Artifact_15_01": "Egy bizonyos ereklyét keresek amivel meggyőzhetem a vízmágusokat, hogy beleszóljanak a szigeten történő viszályokba.",
   "DIA_Havard_Q509_Question_Artifact_03_02": "Egy dicsőséges és tiszteletreméltó cselekedett... Archolosnak szüksége van, főleg most, bölcs és óvatos emberekre, hogy megakadályozzák a teljes káoszba zuhanását.",
   "DIA_Havard_Q509_Question_Artifact_03_03": "Elvándorlok veled az őseim dicsőségének romjaihoz. Te megszerzed az ereklyédet én meg segítek testvéreimnek ismét örök nyugalomra lelni.",
-  "DIA_Havard_Q509_Feel_03_02": "Olyan fura számomra ezt a helyet ilyen állapotban látni. Minden rommá és hamuvá vált csupán másodpercek alatt...",
+  "DIA_Havard_Q509_Feel_03_02": "Olyan fura számomra ezt a helyet ilyen állapotban látni. Minden rommá és hamuvá vált csupán pillanatok alatt...",
   "DIA_Havard_Q509_Question_Artifact_Choice": "Egy bizonyos ereklyét keresek..."
 }
