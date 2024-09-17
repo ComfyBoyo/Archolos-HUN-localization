@@ -1,7 +1,7 @@
 ﻿{
   "DIA_Adrien_HELLO_15_01": "Mit csinálsz itt?",
   "DIA_Adrien_HELLO_03_02": "Segítek a mesteremnek, Susannenak. Egy nap olyan ügyesen szeretnék ékszereket készíteni, mint ő, de még sokat kell tanulnom.",
-  "DIA_Adrien_HELLO_03_06": "A te helyedben én nem mutogatnám, hogy honnan származol.",
+  "DIA_Adrien_HELLO_03_06": "A helyedben én nem mutogatnám, honnan származol.",
   "DIA_Adrien_HELLO_Threat_15_01": "Azt mondod, hogy veszélyben vagyok?",
   "DIA_Adrien_HELLO_Threat_03_02": "Hogy is mondjam...",
   "DIA_Adrien_HELLO_Threat_03_03": "Nem mindenki szívleli az idegeneket.",
@@ -20,9 +20,9 @@
   "DIA_Adrien_TRADE_15_01": "Mutasd az árud.",
   "DIA_Adrien_TRADE_03_02": "Gyűrűk, nyakláncok és amulettek. Válassz csak.",
   "DIA_Adrien_TRADE_03_03": "Minden termékünk magas minőségű.",
-  "DIA_Adrien_TRADE_03_04": "Válaszd ki ami tetszik.",
+  "DIA_Adrien_TRADE_03_04": "Válaszd ki, ami tetszik.",
   "DIA_Adrien_Ambient_15_01": "Mi történik az aranykovácsok világában?",
-  "DIA_Adrien_Ambient_03_06": "Susanne egy olyan nő, akinek vaskalapos elvei vannak, de igazi arany szíve van.",
-  "DIA_Adrien_Ambient_03_07": "Ha ő nem lenne, akkor még mindig illemhelyeket sikálgatnék a Jajgató Szirénben.",
+  "DIA_Adrien_Ambient_03_06": "Susanne egy olyan nő, akinek vaskalapos elvei vannak, de a szíve igazi aranyból van.",
+  "DIA_Adrien_Ambient_03_07": "Ha ő nincs, akkor még mindig takaríthatnék a Jajgató Szirénben.",
   "DIA_Adrien_HELLO_Threat_Choice": "Azt mondod, hogy veszélyben vagyok?"
 }
