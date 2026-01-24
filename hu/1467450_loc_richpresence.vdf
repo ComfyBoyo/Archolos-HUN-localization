@@ -7,7 +7,7 @@
 		"#Status_InGame"	"{#Status_Guild_%guild%} - Szint %level% - Fejezet %chapter%"
 		"#Status_Guild_None"	"Céh nélküli"
 		"#Status_Guild_Citizen"	"Polgár"
-		"#Status_Guild_WaterCircle"	"Víz köre"
+		"#Status_Guild_WaterCircle"	"Víz Köre"
 		"#Status_Guild_Runner"	"Fullajtár"
 		"#Status_Guild_VeteranRunner"	"Elit fullajtár"
 		"#Status_Guild_Mercenary"	"Zsoldos"
